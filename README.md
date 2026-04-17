@@ -48,9 +48,6 @@ I've worked on several projects where I contribute to digitalization and *data a
 
 ### Frontend  
 <div align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" alt="React" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/Excel.jpg" height="40" alt="Excel" />
   <img src="https://github.com/khellafAymene/Lib/blob/main/Icon/PowerBI.png" height="40" alt="PowerBI" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" alt="SQLite" />
