@@ -45,6 +45,8 @@ I've worked on several projects where I contribute to digitalization and *data a
 • Data visualization & smart industry collaborations  
 
 📫 **Reach me at:** [aymene.0.khellaf@gmail.com](mailto:aymene.0.khellaf@gmail.com)
+
+
 ---
 
 ## 🛠️ Tech Stack  
