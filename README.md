@@ -47,7 +47,7 @@ I've worked on several projects where I contribute to digitalization and *data a
 
 ## 🛠️ Tech Stack  
 
-### Frontend  
+### Programming Languages
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" alt="SQLite" />
