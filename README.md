@@ -72,7 +72,7 @@ I've worked on several projects where I contribute to digitalization and *data a
    
 <img src="https://github-readme-stats.vercel.app/api?username=khellafAymene&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=khellafAymene&theme=dark&hide_border=true" height="150" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khellafAymene&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khellafAymene&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=1" height="150" alt="Top languages" />
 
 </div>
 
